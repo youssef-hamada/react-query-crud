@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "this is post 124",
+      "body": "this is body one"
+    },
+    {
+      "id": "2",
+      "title": "this is post 2w",
+      "body": "this is body two"
+    },
+    {
+      "id": 3,
+      "title": "wqe",
+      "body": "23"
+    },
+    {
+      "id": 3,
+      "title": "tyqa",
+      "body": "1234"
+    }
+  ]
+}
